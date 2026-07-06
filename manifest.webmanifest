@@ -1,0 +1,10 @@
+{
+  "name": "Die Abenteuer der Gegelle Boys",
+  "short_name": "Gegelle Boys",
+  "description": "Ein RPG Partyspiel fuer Wanderhelden, Nachtlegenden und Hopfenheilige.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#20160f",
+  "theme_color": "#20160f",
+  "icons": []
+}
