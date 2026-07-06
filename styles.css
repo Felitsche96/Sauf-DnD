@@ -276,9 +276,12 @@ label {
 }
 
 .subtitle {
-  margin: 0;
+  margin: 0.75rem 0 0;
   color: var(--muted);
   font-size: 1.08rem;
+  line-height: 1.35;
+  max-width: 42rem;
+  text-wrap: balance;
 }
 
 .hero-art {
@@ -1251,6 +1254,10 @@ select {
 
 .subtitle {
   color: var(--muted);
+  display: block;
+  max-width: min(48rem, 100%);
+  margin-top: 1rem;
+  font-weight: 750;
 }
 
 .hero {

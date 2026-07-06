@@ -593,7 +593,7 @@
         <div class="hero-art" aria-hidden="true"></div>
         <div>
           <h1 class="title">${APP_TITLE}</h1>
-          <p class="subtitle">Jung, brutal und versoffen und mit kleinem Pimmel erleben die Freunde gemeinsam die Welt</p>
+          <p class="subtitle">Jung, brutal, versoffen und mit kleinem Pimmel erleben die Freunde gemeinsam die Welt</p>
         </div>
         <div class="stack">
           <button data-action="stories">Neues Spiel</button>

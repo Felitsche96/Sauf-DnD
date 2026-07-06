@@ -1,10 +1,10 @@
-const CACHE_NAME = "letzter-kasten-v27";
+const CACHE_NAME = "letzter-kasten-v28";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=27",
-  "./app.js?v=27",
-  "./manifest.webmanifest?v=27",
+  "./styles.css?v=28",
+  "./app.js?v=28",
+  "./manifest.webmanifest?v=28",
   "./assets/quest-parchment.png",
   "./assets/quest-parchment-wide.png",
   "./assets/gegelle-boys-group.jpeg"
